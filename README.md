@@ -1,4 +1,4 @@
-# Abloq
+# Abloq Android MCP
 
 Precision Android UI hierarchy inspection and accessibility tooling for AI agents and automation workflows.
 
