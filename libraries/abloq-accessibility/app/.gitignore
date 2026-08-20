@@ -1,0 +1,12 @@
+# Regenerable, large - never commit
+recon/apk/
+recon/jadx_out/
+patch/build/
+patch/devassistant_patched_signed.apk
+patch/*.keystore
+
+# Recon findings and patch source ARE committed:
+!recon/RECON.md
+!patch/bridge_src/
+!patch/stub_src/
+!patch/apply_patch.sh

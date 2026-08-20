@@ -1,0 +1,36 @@
+# Node & Dependencies
+node_modules/
+dist/
+lib/
+
+# Android & Build Outputs
+build/
+*.apk
+*.aab
+*.idsig
+*.keystore
+*.jks
+.gradle/
+local.properties
+
+# Large / Regenerable APK patch artifacts
+recon/apk/
+recon/jadx_out/
+patch/build/
+patch/devassistant_patched_signed.apk
+
+# Testing & Coverage
+coverage/
+test-results/
+playwright-report/
+
+# IDEs & OS metadata
+.idea/
+*.iml
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Local AI / Agent metadata
+.claude/
+.gemini/

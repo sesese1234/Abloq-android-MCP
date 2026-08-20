@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WhatsApp Updates Blocker</string>
+    <string name="accessibility_service_label">Abloq WhatsApp Updates Blocker</string>
+    <string name="accessibility_service_description">Blocks access to the Updates (Status/Channels) tab in WhatsApp and automatically redirects to Chats.</string>
+    <string name="status_title">Protection Status</string>
+    <string name="status_active">Accessibility Service is Active</string>
+    <string name="status_inactive">Accessibility Service is Disabled</string>
+    <string name="enable_service_btn">Enable in Accessibility Settings</string>
+    <string name="open_whatsapp_btn">Open WhatsApp to Test</string>
+    <string name="how_it_works_title">How It Works</string>
+    <string name="how_it_works_desc">When WhatsApp is open and the Updates tab is tapped or selected, this service intercepts the event and immediately redirects to the Chats tab.</string>
+    <string name="blocked_toast">WhatsApp Updates tab is blocked</string>
+</resources>
